@@ -1,0 +1,8 @@
+2021-03-26 22:25:27 INFO  MainTest:19 - Test is starting
+2021-03-26 22:25:42 INFO  MainTest:36 - Test is ending
+2021-03-26 22:25:48 INFO  MainTest:19 - Test is starting
+2021-03-26 22:26:07 INFO  MainTest:36 - Test is ending
+2021-03-26 22:28:54 INFO  MainTest:19 - Test is starting
+2021-03-26 22:29:13 INFO  MainTest:37 - Test is ending
+2021-03-27 12:02:20 INFO  MainPage:19 - Test is starting
+2021-03-27 12:02:39 INFO  MainPage:37 - Test is ending
